@@ -21,6 +21,6 @@
     "xpath": "0.0.24"
   },
   "devDependencies": {
-    "eslint": "^3.16.0"
+    "eslint": "^4.18.2"
   }
 }
