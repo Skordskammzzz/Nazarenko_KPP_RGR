@@ -1,0 +1,4 @@
+{
+    "url": "https://twitter.com/oraclizeit/status/671316655893561344",
+    "xpath": "//*[contains(@class, 'tweet-text')]/text())"
+}
