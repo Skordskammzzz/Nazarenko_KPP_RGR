@@ -17,7 +17,7 @@
     "express-boom": "^2.0.0",
     "lodash": "^4.17.4",
     "request": "^2.81.0",
-    "xmldom": "^0.1.27",
+    "xmldom": "^0.5.0",
     "xpath": "0.0.24"
   },
   "devDependencies": {
